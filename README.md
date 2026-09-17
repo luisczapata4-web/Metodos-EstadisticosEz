@@ -9,3 +9,4 @@ llegamos a la disco
 + Qgis mata
 + Clase del dia 17/09/26. Voy a tener que hacer otro token otra vez, pero bueeee
 + Semana 7
++ NAda
