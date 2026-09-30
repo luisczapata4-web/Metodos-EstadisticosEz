@@ -35,4 +35,5 @@ hist(anillos$RW,
      
 +Fin
      
-     
+  + Semana 8, veamos que pasa, son las 8:02 de la mañana
+  +ds
