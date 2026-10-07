@@ -37,3 +37,14 @@ hist(anillos$RW,
      
   + Semana 8, veamos que pasa, son las 8:02 de la mañana
   +ds
+  
+  
+  + Hoy es 1 de Octubre, Dejaron tarea.(Realice solo el 1 y el3, Excell no me dejaba abrir el 2 para los datos, no pude hacerlo)
+  
+  
+  + Hoy es 7 de October, a una semana de otro examen.
+  
+  
+  
+  
+  
