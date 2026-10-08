@@ -44,6 +44,11 @@ hist(anillos$RW,
   
   + Hoy es 7 de October, a una semana de otro examen.
   
+  + Hoy es 8 de October, aqui andamios, 7:40 de la mañana
+  
+  
+  
+  
   
   
   
