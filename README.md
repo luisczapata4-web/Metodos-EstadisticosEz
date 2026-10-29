@@ -46,6 +46,7 @@ hist(anillos$RW,
   
   + Hoy es 8 de October, aqui andamios, 7:40 de la mañana
   
+  + Hoy es 29 de Octubre, como pasa el tiempo eh, pero bueno, Jueves 29 de octubre.
   
   
   
