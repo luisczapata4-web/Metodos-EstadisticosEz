@@ -19,5 +19,5 @@ hist(anillos$RW,
      border="white",
      xlab= "RWl")
      
-     
++Fin
      
